@@ -31,6 +31,8 @@ window.scrollTo(0, 0);
 			}
 
 		});
+
+	
 	});
 	setTimeout(demo,1000);
 window.scrollTo(0, 10);
