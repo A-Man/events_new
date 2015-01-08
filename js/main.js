@@ -1,4 +1,4 @@
-jQuery(document).ready(function($){
+jQuery(document).ready(function(){
 window.scrollTo(0, 0);	
 	var $timeline_block = $('.cd-timeline-block');
 
@@ -32,8 +32,8 @@ window.scrollTo(0, 0);
 
 		});
 
-	
+
 	});
 	setTimeout(demo,1000);
-window.scrollTo(0, 10);
+
 });
