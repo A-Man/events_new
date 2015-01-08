@@ -34,5 +34,5 @@ jQuery(document).ready(function(){
 
 	});
 	setTimeout(demo,1000);
-    window.scrollTo(0,20);
+  
 });
